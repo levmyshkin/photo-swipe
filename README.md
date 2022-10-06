@@ -1,6 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://www.comebackalive.in.ua/)
-
-PhotoSwipe v5 — JavaScript image gallery and lightbox
+PhotoSwipe v5 — JavaScript image gallery and lightbox as Drupal library.
 
 **[Demo](https://photoswipe.com)** | **[Documentation](https://photoswipe.com/getting-started/)**
 

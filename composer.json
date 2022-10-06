@@ -1,0 +1,7 @@
+{
+    "name": "levmyshkin/photo-swipe",
+    "description": "PhotoSwipe v5 — JavaScript image gallery and lightbox as Drupal library",
+    "type": "drupal-library",
+    "license": "MIT",
+    "require": {}
+}
